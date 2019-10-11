@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Bootcamp</string>
+    <string name="come_on_push_me">Come on, push me !</string>
+    <string name="button">Button</string>
 </resources>

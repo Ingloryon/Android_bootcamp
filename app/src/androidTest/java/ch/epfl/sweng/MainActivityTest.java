@@ -13,6 +13,7 @@ import static androidx.test.espresso.action.ViewActions.closeSoftKeyboard;
 import static androidx.test.espresso.action.ViewActions.typeText;
 import static androidx.test.espresso.matcher.ViewMatchers.withId;
 
+@SuppressWarnings("deprecation")
 @RunWith(AndroidJUnit4.class)
 public class MainActivityTest {
     @Rule
